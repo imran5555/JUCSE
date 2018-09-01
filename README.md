@@ -1,2 +1,2 @@
 # JUCSE
-College assignments
+Assignments
